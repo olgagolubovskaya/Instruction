@@ -14,3 +14,5 @@ git push master
 git pull master
 ```
 Заключение
+
+***
